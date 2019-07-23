@@ -1,0 +1,55 @@
+c:\users\admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\Admin\documents\visual studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Admin\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\JAMES\Desktop\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\JAMES\Desktop\PTSLibrary\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\AdminApplication.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.frmAdmin.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.Properties.Resources.resources
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\AdminApplication\AdminApplication\obj\Debug\AdminApplication.csprojResolveAssemblyReference.cache

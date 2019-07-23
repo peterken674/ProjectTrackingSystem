@@ -1,0 +1,27 @@
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+c:\users\admin\documents\visual studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\JAMES\Desktop\PTSLibrary\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+C:\Users\Owner\Desktop\EAWASDFGHJ\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe.config
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.exe
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\RemoteServerApplication.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.dll
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\bin\Debug\PTSLibrary.pdb
+C:\Users\Owner\Documents\Visual Studio 2013\Projects\RemoteServerApplication\RemoteServerApplication\obj\Debug\RemoteServerApplication.csprojResolveAssemblyReference.cache
